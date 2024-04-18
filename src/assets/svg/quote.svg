@@ -1,0 +1,9 @@
+<svg width="470" height="235" viewBox="-6.86 -3 400 200" xmlns="http://www.w3.org/2000/svg">
+        <style>
+            .s1 {
+                fill: #1f78b4b3;
+            }
+        </style>
+        <path id="Shape 1 copy" d="m-6.86-3l281.24 0.35l45.61 42.44l-45.77 42.58l-281.24-0.35l0.16-85.02z" class="s1"></path>
+        <text x="80" y="46" font-family="Arial" font-size="20" fill="white">Quote Of The Day</text>
+</svg>
